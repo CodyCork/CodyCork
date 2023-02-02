@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CodyCork
 - 👀 I’m interested in JavaScript Software development.
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I recently graduated from The University of Wisconsin-Madison's Full Stack Development Boot Camp!
 - 💞️ I’m looking to collaborate on anything that will allow me to add more depth to my resume and coding knowledge.
 - 📫 How to reach me : You can reach me at my email codycork.sfg@outlook.com
 
